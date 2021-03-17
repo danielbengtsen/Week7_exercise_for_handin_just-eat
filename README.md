@@ -6,7 +6,7 @@
 - Daniel A. Bengtsen (cph-db145@cphbusiness.dk).
 
 ### Opgave 1:
-- Tilgå https://www.just-eat.dk/area/2800-kgs--lyngby/ og gem alle restauranter, hvor “pizza”, “pizzeria” eller “pizzaria” indgår (Tip: tag højde for store og små bogstaver).
+- Tilgå https://www.just-eat.dk/area/2800-kgs--lyngby/ og gem alle restauranter, hvor “pizza”, “pizzeria” eller “pizzaria” indgår (Tip: tag højde for store og små bogstaver). NB: For at tilgå just-eat.dk skal man have sat en user-agent i request.get() metoden.
 
 ### Opgave 2:
 - Find “Margherita” med størrelsen “Alm.” og gem priserne for hver restaurant.
